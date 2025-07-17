@@ -1,0 +1,7 @@
+{
+    "appTitle": "LuxStream",
+    "backgroundColor": "#121212",
+    "textColor": "#FFFFFF",
+    "showCategorias": true,
+    "categorias": ["Accion", "Comedia", "Terror", "Anime", "Kdrama"]
+}
