@@ -3,5 +3,9 @@
     "backgroundColor": "#121212",
     "textColor": "#FFFFFF",
     "showCategorias": true,
-    "categorias": ["Accion", "Comedia", "Terror", "Anime", "Kdrama"]
+    "categorias": ["Accion", "Comedia", "Terror", "Anime", "Kdrama"],
+    "buttonColor": "#FF5722",
+    "accentColor": "#FFC107",
+    "bannerUrl": "https://i.pinimg.com/1200x/79/dd/9f/79dd9fb8b49c27de3601c34c343beb4b.jpg",
+    "enableSearch": true
 }
