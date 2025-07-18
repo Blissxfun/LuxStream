@@ -1,14 +1,16 @@
 [
-    {
-        "titulo": "Pandora",
-        "poster": "https://i.pinimg.com/736x/9f/0b/00/9f0b0074dc945dad6e79972a20f12c0f.jpg",
-        "url": "https://pixeldrain.com/u/iyEch98K",
-        "categoria": "Kdrama",
-        "actores": "Nam-Gil Kim"
-    },
-    {
-        "titulo": "ScareFace",
-        "poster": "https://i.pinimg.com/736x/36/1b/da/361bda102822315cc495e4a13d0150fd.jpg",
-        "url": "",
-        "categoria": "Accion"
+  {
+    "titulo": "Pandora",
+    "imagen": "https://i.pinimg.com/736x/9f/0b/00/9f0b0074dc945dad6e79972a20f12c0f.jpg",
+    "url": "https://pixeldrain.com/u/iyEch98K",
+    "categoria": "Kdrama",
+    "actores": "Nam-Gil Kim"
+  },
+  {
+    "titulo": "ScareFace",
+    "imagen": "https://i.pinimg.com/736x/36/1b/da/361bda102822315cc495e4a13d0150fd.jpg",
+    "url": "",
+    "categoria": "Accion",
+    "actores": ""
+  }
 ]
