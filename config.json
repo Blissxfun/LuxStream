@@ -4,5 +4,6 @@
   "textColor": "#FFFFFF",
   "showCategorias": true,
   "categorias": ["Accion", "Comedia", "Anime", "Terror"],
+  "logoUrl": "",
   "buttonColor": "#9e22ff"
 }
