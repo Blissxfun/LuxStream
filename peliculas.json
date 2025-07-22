@@ -4,20 +4,23 @@
     "imagen": "https://i.pinimg.com/736x/9f/0b/00/9f0b0074dc945dad6e79972a20f12c0f.jpg",
     "url": "https://ia600908.us.archive.org/31/items/pandora_202507/Pandora.MP4",
     "categoria": "Kdrama",
-    "actor": "Kim Nam-gil, Kim Joo-hyun y Jung Jin-young"
+    "actor": "Kim Nam-gil, Kim Joo-hyun y Jung Jin-young",
+    "descripcion": "Un terremoto sacude una pequeña aldea coreana donde hay una planta nuclear venida a menos. Un hombre arriesgará su vida para salvar a su país del desastre."
   },
   {
     "titulo": "Kicks",
     "imagen": "https://i.pinimg.com/1200x/dd/0a/a4/dd0aa477585666e37cb3d41d678f836f.jpg",
     "url": "https://ia601002.us.archive.org/8/items/Kicks/Kicks.MP4",
     "categoria": "Drama",
-    "actor": "Jahking Guillory, Christopher Meyer, Christopher Jordan Wallace, Mahershala Ali"
+    "actor": "Jahking Guillory, Christopher Meyer, Christopher Jordan Wallace, Mahershala Ali",
+    "descripcion": ""
   },
   {
     "titulo": "Mi nombre es Khan",
     "imagen": "https://es.web.img2.acsta.net/medias/nmedia/18/77/55/19/20235641.jpg",
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "categoria": "Drama",
-    "actor": "Shah Rukh Khan, Kajol y Jimmy Shergill"
+    "actor": "Shah Rukh Khan, Kajol y Jimmy Shergill",
+    "descripcion": ""
   }
 ]
