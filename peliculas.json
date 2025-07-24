@@ -22,5 +22,13 @@
     "categoria": "Comedia",
     "actor": "Maia KealohaSydney AgudongChris Sanders",
     "descripcion": "Lilo & Stitch es la divertidísima y conmovedora historia de una solitaria niña hawaiana y un extraterrestre fugitivo que ayuda a reconstruir "
+  },
+  {
+    "titulo": "Ghost Rider - El Vengador Fantasma",
+    "imagen": "https://i.pinimg.com/1200x/e9/c1/43/e9c1432694a93a44ba343907dc51c5e6.jpg",
+    "url": "https://ia600904.us.archive.org/18/items/97049-81f-13a-05-6eea-4e-52-932e-4ee-44e-948c-61-zbqc-918428-1fichier/97049--81f13a05-6eea-4e52-932e-4ee44e948c61--zbqc--918428-1fichier.MP4",
+    "categoria": "Accion",
+    "actor": "Nicolas Cage, Eva Mendes, Sam Elliott",
+    "descripcion": "Johnny es un temerario acróbata de motocicletas de día, pero de noche se convierte en Ghost Rider, el vengador fantasma, un cazarrecompensas de demonios fugados del infierno."
   }
 ]
