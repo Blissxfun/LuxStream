@@ -70,5 +70,14 @@
     "categoria": "Terror",
     "actor": "Keanu Reeves, Rachel Weisz, Shia LaBeouf",
     "descripcion": "Un hombre que puede ver demonios ayuda a una mujer policía escéptica a investigar la misteriosa muerte de su hermana gemela."
+  },
+  {
+    "titulo": "Scary Movie",
+    "imagen": "https://i.pinimg.com/736x/55/85/40/5585403ab908b7083f7f92b561592cd8.jpg",
+    "url": "https://ia601502.us.archive.org/20/items/scary-movie_202508/ScaryMovie.MP4",
+    "categoria": "Comedia",
+    "actor": "Anna Faris, Marlon Wayans, Shawn Wayans",
+    "descripcion": "Una parodia de los filmes de asesinatos donde un homicida vengativo acecha a un grupo de adolescentes."
   }
 ]
+
