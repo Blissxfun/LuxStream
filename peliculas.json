@@ -81,12 +81,21 @@
   },
   {
     "titulo": "Scary Movie 2",
-    "imagen": "https://i.pinimg.com/1200x/5c/fa/09/5cfa09dcf161a671b296b16ec79a69de.jpg",
+    "imagen": "https://i.pinimg.com/1200x/04/67/3f/04673fee4257bb32818bd1d940c9bb9d.jpg",
     "url": "https://ia601000.us.archive.org/25/items/scary-movie-2_202508/ScaryMovie2.MP4",
     "categoria": "Comedia",
     "actor": "Anna Faris, Marlon Wayans, Shawn Wayans",
     "descripcion": "Un profesor engaña a cuatro adolescentes y los hace visitar una mansión hechizada para estudiar el sueño."
+  },
+  {
+    "titulo": "Scary Movie 3",
+    "imagen": "https://i.pinimg.com/1200x/38/95/ab/3895ab36faf6ee307c17239a24ee4475.jpg",
+    "url": "https://ia601006.us.archive.org/27/items/scary-movie-3_202508/ScaryMovie3.MP4",
+    "categoria": "Comedia",
+    "actor": "Anna Faris, Charlie Sheen, Regina Hall",
+    "descripcion": "En su afán de encontrar una noticia que impulse su carrera, la periodista Cindy Campbell descubre que la Tierra está amenazada por una serie de hechos terroríficos. La joven debe luchar para evitar que el mal se apodere del mundo otra vez."
   }
 ]
+
 
 
