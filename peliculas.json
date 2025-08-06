@@ -195,6 +195,19 @@
     "descripcion": "El excampeón del mundo de peso pesado Rocky Balboa se desempeña como el entrenador y mentor de Adonis Johnson, el hijo de su difunto amigo y antiguo rival Apollo Creed."
   },
   {
+    "titulo": "Creed II: defendiendo el legado",
+    "imagen": "https://i.pinimg.com/736x/d5/32/83/d53283b9cde82a8b876e67428516e1e6.jpg",
+    "url": "https://dn720705.ca.archive.org/0/items/creed-2_202508/Creed2.MP4",
+    "categoria": "Accion",
+    "actor": "Michael B. Jordan, Sylvester Stallone, Dolph Lundgren",
+    "director": "Steven Caple Jr.",
+    "año": 2018,
+    "duracion": "2h 10m",
+    "clasificacion": "+13",
+    "idioma": "Español Latino",
+    "descripcion": "Supervisado por el legendario Rocky Balboa, el espectacular púgil Adonis Johnson se prepara para un combate contra el hijo de Iván Drago, el boxeador soviético que mató a Apollo Creed en el ring."
+  },
+  {
     "titulo": "Creed III",
     "imagen": "https://i.pinimg.com/1200x/3d/63/63/3d63633e9e24a93db82bceb586649bfb.jpg",
     "url": "https://ia600900.us.archive.org/9/items/creed-3_202508/Creed3.MP4",
@@ -206,8 +219,22 @@
     "clasificacion": "+13",
     "idioma": "Español Latino",
     "descripcion": "Adonis Creed, aún dominando el mundo del boxeo, prospera en su carrera y en su vida familiar, pero un amigo de la infancia y antiguo prodigio del boxeo reaparece tras salir de la cárcel y está ansioso por demostrar que merece otra oportunidad."
+  },
+  {
+    "titulo": "Kickboxer",
+    "imagen": "https://i.pinimg.com/1200x/5a/3c/02/5a3c0247b88fb479ab44c7810fd02178.jpg",
+    "url": "https://ia601001.us.archive.org/29/items/kickboxer_202508/Kickboxer.MP4",
+    "categoria": "Accion",
+    "actor": "Jean-Claude Van Damme, Michel Qissi, Ho Ying Sin",
+    "director": "Mark DiSalle, David Worth",
+    "año": 1989,
+    "duracion": "1h 45m",
+    "clasificacion": "+13",
+    "idioma": "Español Latino",
+    "descripcion": "Un kickboxer tiene que aprender una nueva manera de luchar para vencer al matón que hirió a su hermano."
   }
 ]
+
 
 
 
