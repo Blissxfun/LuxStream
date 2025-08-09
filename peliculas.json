@@ -1,6 +1,6 @@
 [
   {
-    "id": "Pandora",
+    "id": "pandora",
     "titulo": "Pandora",
     "imagen": "https://i.pinimg.com/1200x/b7/4a/3a/b74a3a104d49282e271924fa7c6d98d5.jpg",
     "url": "https://ia600908.us.archive.org/31/items/pandora_202507/Pandora.MP4",
@@ -14,7 +14,7 @@
     "descripcion": "Un terremoto sacude una pequeña aldea coreana donde hay una planta nuclear venida a menos. Un hombre arriesgará su vida para salvar a su país del desastre."
   },
   {
-    "id": "Kicks",
+    "id": "kicks",
     "titulo": "Kicks",
     "imagen": "https://i.pinimg.com/1200x/dd/0a/a4/dd0aa477585666e37cb3d41d678f836f.jpg",
     "url": "https://ia601002.us.archive.org/8/items/Kicks/Kicks.MP4",
@@ -28,7 +28,7 @@
     "descripcion": "Un joven lucha por dejar atrás su vida problemática y seguir su sueño de convertirse en un gran jugador de fútbol."
   },
   {
-    "id": "Lilo y Stich",
+    "id": "lilo-y-stich",
     "titulo": "Lilo y Stich",
     "imagen": "https://lumiere-a.akamaihd.net/v1/images/image_01f8d16d.jpeg?region=0,0,540,810",
     "url": "https://dn721404.ca.archive.org/0/items/97049-81f-13a-05-6eea-4e-52-932e-4ee-44e-948c-61-zbqc-918428-1fichier/97049--81f13a05-6eea-4e52-932e-4ee44e948c61--zbqc--918428-1fichier.MP4",
@@ -42,7 +42,7 @@
     "descripcion": "Lilo & Stitch es la divertidísima y conmovedora historia de una solitaria niña hawaiana y un extraterrestre fugitivo que ayuda a reconstruir."
   },
   {
-    "id": "Ghost Rider - El Vengador Fantasma",
+    "id": "ghost-rider-el-vengador-fantasma",
     "titulo": "Ghost Rider - El Vengador Fantasma",
     "imagen": "https://i.pinimg.com/1200x/e9/c1/43/e9c1432694a93a44ba343907dc51c5e6.jpg",
     "url": "https://ia600904.us.archive.org/18/items/97049-81f-13a-05-6eea-4e-52-932e-4ee-44e-948c-61-zbqc-918428-1fichier/97049--81f13a05-6eea-4e52-932e-4ee44e948c61--zbqc--918428-1fichier.MP4",
@@ -56,7 +56,7 @@
     "descripcion": "Johnny es un temerario acróbata de motocicletas de día, pero de noche se convierte en Ghost Rider, el vengador fantasma, un cazarrecompensas de demonios fugados del infierno."
   },
   {
-    "id": "Ghost Rider - Espiritu De Venganza",
+    "id": "ghost-rider-espiritu-de-venganza",
     "titulo": "Ghost Rider - Espíritu De Venganza",
     "imagen": "https://i.pinimg.com/1200x/47/66/c8/4766c8df4a1c78c30c4352b9fc609161.jpg",
     "url": "https://ia902905.us.archive.org/19/items/ghost-rider-2_202507/GhostRider2.MP4",
@@ -70,7 +70,7 @@
     "descripcion": "Escondido en Europa Oriental, Johnny Blaze continúa luchando con la maldición del Fantasma del Jinete, el cazador de recompensas del diablo. Johnny conoce a un sacerdote llamado Moreau, quien le pide a Johnny encontrar a un niño llamado Danny y traerlo de regreso. Pero hay una trampa."
   },
   {
-    "id": "Abraham Lincoln - Cazador de Vampiros",
+    "id": "abraham-lincoln-cazador-de-vampiros",
     "titulo": "Abraham Lincoln - Cazador De Vampiros",
     "imagen": "https://i.pinimg.com/1200x/8e/12/8a/8e128aef3aa66a1dd4fbee8b8269c4df.jpg",
     "url": "https://dn721808.ca.archive.org/0/items/habram-casa-vampiro/HabramCasaVampiro.MP4",
@@ -84,7 +84,7 @@
     "descripcion": "Tras descubrir que su madre había sido asesinada por un vampiro, y mucho antes de convertirse en el decimosexto presidente de Estados Unidos, Abraham Lincoln era ya el mayor cazador de vampiros de la historia."
   },
   {
-    "id": "Tammy",
+    "id": "tammy",
     "titulo": "Tammy",
     "imagen": "https://i.pinimg.com/1200x/4f/f0/59/4ff059a774e79a279f947968002ab3b4.jpg",
     "url": "https://ia903105.us.archive.org/23/items/tammy_202507/Tammy.MP4",
@@ -98,7 +98,7 @@
     "descripcion": "Después de perder su trabajo, chocar su carro y descubrir la infidelidad de su marido, una mujer sale de viaje con su esforzada abuela."
   },
   {
-    "id": "Chicas Armadas y Peligrosas",
+    "id": "chicas-armadas-y-peligrosas",
     "titulo": "Chicas Armadas y Peligrosas",
     "imagen": "https://i.pinimg.com/736x/8c/ec/b8/8cecb8ac1a1eb83cb8d35968311c230d.jpg",
     "url": "https://dn721702.ca.archive.org/0/items/chicas-armadas-y-peligrosas/Chicas%20armadas%20y%20peligrosas%20.MP4",
@@ -112,7 +112,7 @@
     "descripcion": "La agente especial del FBI, Sarah Ashburn, es una metódica investigadora con una larga reputación. En contraste, la temperamental detective Shannon Mullins utiliza sus instintos e inteligencia para sacar a los criminales de las calles de Boston."
   },
   {
-    "id": "Constantine",
+    "id": "constantine",
     "titulo": "Constantine",
     "imagen": "https://i.pinimg.com/736x/e8/33/39/e83339412f0563977454ab9c684d441a.jpg",
     "url": "https://dn721508.ca.archive.org/0/items/constantine_202507/Constantine.MP4",
@@ -126,7 +126,7 @@
     "descripcion": "Un hombre que puede ver demonios ayuda a una mujer policía escéptica a investigar la misteriosa muerte de su hermana gemela."
   },
   {
-    "id": "Scary Movie",
+    "id": "scary-movie",
     "titulo": "Scary Movie",
     "imagen": "https://i.pinimg.com/736x/55/85/40/5585403ab908b7083f7f92b561592cd8.jpg",
     "url": "https://ia601502.us.archive.org/20/items/scary-movie_202508/ScaryMovie.MP4",
@@ -140,7 +140,7 @@
     "descripcion": "Una parodia de los filmes de asesinatos donde un homicida vengativo acecha a un grupo de adolescentes."
   },
   {
-    "id": "Scary Movie 2",
+    "id": "scary-movie-2",
     "titulo": "Scary Movie 2",
     "imagen": "https://i.pinimg.com/1200x/04/67/3f/04673fee4257bb32818bd1d940c9bb9d.jpg",
     "url": "https://ia601000.us.archive.org/25/items/scary-movie-2_202508/ScaryMovie2.MP4",
@@ -154,7 +154,7 @@
     "descripcion": "Un profesor engaña a cuatro adolescentes y los hace visitar una mansión hechizada para estudiar el sueño."
   },
   {
-    "id": "Scary Movie 3",
+    "id": "scary-movie-3",
     "titulo": "Scary Movie 3",
     "imagen": "https://i.pinimg.com/1200x/38/95/ab/3895ab36faf6ee307c17239a24ee4475.jpg",
     "url": "https://ia601006.us.archive.org/27/items/scary-movie-3_202508/ScaryMovie3.MP4",
@@ -168,7 +168,7 @@
     "descripcion": "En su afán de encontrar una noticia que impulse su carrera, la periodista Cindy Campbell descubre que la Tierra está amenazada por una serie de hechos terroríficos. La joven debe luchar para evitar que el mal se apodere del mundo otra vez."
   },
   {
-    "id": "Scary Movie 4",
+    "id": "scary-movie 4",
     "titulo": "Scary Movie 4",
     "imagen": "https://i.pinimg.com/1200x/4e/a9/13/4ea9130429919f95c3e48f0801c56945.jpg",
     "url": "https://ia801708.us.archive.org/21/items/scary-movie-4_202508/ScaryMovie4.MP4",
@@ -182,7 +182,7 @@
     "descripcion": "Cindy Campbell y su alocada y sexi amiga Brenda hacen equipo con el apuesto, pero inepto, Tom Ryan, para salvar al mundo de una violenta invasión extraterrestre."
   },
   {
-    "id": "Scary Movie 5",
+    "id": "scary-movie-5",
     "titulo": "Scary Movie 5",
     "imagen": "https://i.pinimg.com/736x/b1/10/be/b110be53abba4d18ca6425fcb7ab2ffd.jpg",
     "url": "https://ia801004.us.archive.org/6/items/scary-movie-5_202508/ScaryMovie5.MP4",
@@ -196,7 +196,7 @@
     "descripcion": "Dan y Jody empiezan a observar fenómenos extraños en su casa tras volver del hospital con su bebé. La pareja descubre que está siendo acosada por una presencia demoníaca y con la ayuda de expertos cualificados intentarán deshacerse del maléfico ser."
   },
   {
-    "id": "Creed - Corazon de Campeon",
+    "id": "creed-corazon-de-campeon",
     "titulo": "Creed - corazón de campeón",
     "imagen": "https://i.pinimg.com/1200x/2e/53/1e/2e531ea111176067d5d871556d48a524.jpg",
     "url": "https://ia601005.us.archive.org/22/items/creed_202508/Creed.MP4",
@@ -210,7 +210,7 @@
     "descripcion": "El excampeón del mundo de peso pesado Rocky Balboa se desempeña como el entrenador y mentor de Adonis Johnson, el hijo de su difunto amigo y antiguo rival Apollo Creed."
   },
   {
-    "id": "Creed II: Defendiendo El Legado",
+    "id": "creed-ii:-defendiendo-ll-legado",
     "titulo": "Creed II: defendiendo el legado",
     "imagen": "https://i.pinimg.com/736x/d5/32/83/d53283b9cde82a8b876e67428516e1e6.jpg",
     "url": "https://dn720705.ca.archive.org/0/items/creed-2_202508/Creed2.MP4",
@@ -224,7 +224,7 @@
     "descripcion": "Supervisado por el legendario Rocky Balboa, el espectacular púgil Adonis Johnson se prepara para un combate contra el hijo de Iván Drago, el boxeador soviético que mató a Apollo Creed en el ring."
   },
   {
-    "id": "Creed III",
+    "id": "creed-iii",
     "titulo": "Creed III",
     "imagen": "https://i.pinimg.com/1200x/3d/63/63/3d63633e9e24a93db82bceb586649bfb.jpg",
     "url": "https://ia600900.us.archive.org/9/items/creed-3_202508/Creed3.MP4",
@@ -238,7 +238,7 @@
     "descripcion": "Adonis Creed, aún dominando el mundo del boxeo, prospera en su carrera y en su vida familiar, pero un amigo de la infancia y antiguo prodigio del boxeo reaparece tras salir de la cárcel y está ansioso por demostrar que merece otra oportunidad."
   },
   {
-    "id": "Kickboxer",
+    "id": "kickboxer",
     "titulo": "Kickboxer",
     "imagen": "https://i.pinimg.com/1200x/5a/3c/02/5a3c0247b88fb479ab44c7810fd02178.jpg",
     "url": "https://ia601001.us.archive.org/29/items/kickboxer_202508/Kickboxer.MP4",
@@ -252,7 +252,7 @@
     "descripcion": "Un kickboxer tiene que aprender una nueva manera de luchar para vencer al matón que hirió a su hermano."
   },
   {
-    "id": "Contacto Sangriento",
+    "id": "contacto-sangriento",
     "titulo": "Contacto sangriento",
     "imagen": "https://i.pinimg.com/736x/6b/04/59/6b04599deaadbd75ee0140c028717b37.jpg",
     "url": "https://dn720704.ca.archive.org/0/items/contactoSangriento/contactoSangriento.MP4",
@@ -266,6 +266,7 @@
     "descripcion": "La ilusión de Frank Dux es participar en el Kumite, un torneo secreto e ilegal de kickboxing. Pero para ello, antes debe derrotar al despiadado Ghong Li, el campeón."
   }
 ]
+
 
 
 
