@@ -28,18 +28,18 @@
     "descripcion": "Un joven lucha por dejar atrás su vida problemática y seguir su sueño de convertirse en un gran jugador de fútbol."
   },
   {
-    "id": "lilo-y-stich",
-    "titulo": "Lilo y Stich",
-    "imagen": "https://lumiere-a.akamaihd.net/v1/images/image_01f8d16d.jpeg?region=0,0,540,810",
-    "url": "https://dn721404.ca.archive.org/0/items/97049-81f-13a-05-6eea-4e-52-932e-4ee-44e-948c-61-zbqc-918428-1fichier/97049--81f13a05-6eea-4e52-932e-4ee44e948c61--zbqc--918428-1fichier.MP4",
-    "categoria": "Comedia",
-    "actor": "Maia Kealoha, Sydney Agudong, Chris Sanders",
-    "director": "Dean Fleischer Camp",
-    "año": 2025,
-    "duracion": "1h 48m",
-    "clasificacion": "+6",
+    "id": "El-campeón-indiscutible",
+    "titulo": "El campeón indiscutible | Invicto",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BNjhiYjI5MzYtODcyYy00NmFkLTg2MjUtYjZkZjgxM2JmYTMxXkEyXkFqcGc@._V1_.jpg",
+    "url": "https://ia800308.us.archive.org/33/items/162636-45f-175dd-15b-0-4cd-6-bded-832b-449982f-7-btjt-1143034-1fichier/162636--45f175dd-15b0-4cd6-bded-832b449982f7--btjt--1143034-1fichier.MP4",
+    "categoria": "Acción",
+    "actor": "Wesley Snipes, Ving Rhames",
+    "director": "Walter Hill",
+    "año": 2002,
+    "duracion": "1h 34m",
+    "clasificacion": "+13",
     "idioma": "Español Latino",
-    "descripcion": "Lilo & Stitch es la divertidísima y conmovedora historia de una solitaria niña hawaiana y un extraterrestre fugitivo que ayuda a reconstruir."
+    "descripcion": "Un gángster organiza una pelea de boxeo entre un campeón del mundo, encarcelado por violación, y el mejor luchador de la cárcel. El campeón no está preparado para un combate en el que las reglas de los cuadriláteros profesionales no sirven."
   },
   {
     "id": "ghost-rider-el-vengador-fantasma",
@@ -266,6 +266,7 @@
     "descripcion": "La ilusión de Frank Dux es participar en el Kumite, un torneo secreto e ilegal de kickboxing. Pero para ello, antes debe derrotar al despiadado Ghong Li, el campeón."
   }
 ]
+
 
 
 
