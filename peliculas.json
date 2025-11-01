@@ -196,32 +196,32 @@
     "descripcion": "Dan y Jody empiezan a observar fenómenos extraños en su casa tras volver del hospital con su bebé. La pareja descubre que está siendo acosada por una presencia demoníaca y con la ayuda de expertos cualificados intentarán deshacerse del maléfico ser."
   },
   {
-    "id": "creed-corazon-de-campeon",
-    "titulo": "Creed - corazón de campeón",
-    "imagen": "https://i.pinimg.com/1200x/2e/53/1e/2e531ea111176067d5d871556d48a524.jpg",
-    "url": "https://ia601005.us.archive.org/22/items/creed_202508/Creed.MP4",
+    "id": "los-indestructibles",
+    "titulo": "Los Indestructibles",
+    "imagen": "https://i.pinimg.com/1200x/42/2e/78/422e78568ebf27344597b1887bcad2c6.jpg",
+    "url": "https://ia801307.us.archive.org/17/items/los-indestructibles/LosIndestructibles.MP4",
     "categoria": "Accion",
-    "actor": "Michael B. Jordan, Sylvester Stallone, Tessa Thompson",
-    "director": "Ryan Coogler",
-    "año": 2015,
-    "duracion": "2h 13m",
-    "clasificacion": "+13",
+    "actor": "Arnold Schwarzenegger, Sylvester Stallone, Bruce Willis",
+    "director": "Sylvester Stallone",
+    "año": 2010,
+    "duracion": "1h 43m",
+    "clasificacion": "+16",
     "idioma": "Español Latino",
-    "descripcion": "El excampeón del mundo de peso pesado Rocky Balboa se desempeña como el entrenador y mentor de Adonis Johnson, el hijo de su difunto amigo y antiguo rival Apollo Creed."
+    "descripcion": "El líder mercenario Barney Ross y sus leales hombres inician una misión para derrocar a un dictador sudamericano. Cuando se enteran de que se trata de una misión suicida, deben optar por rendirse o destruir su hermandad."
   },
   {
-    "id": "creed-ii:-defendiendo-ll-legado",
-    "titulo": "Creed II: defendiendo el legado",
-    "imagen": "https://i.pinimg.com/736x/d5/32/83/d53283b9cde82a8b876e67428516e1e6.jpg",
-    "url": "https://dn720705.ca.archive.org/0/items/creed-2_202508/Creed2.MP4",
+    "id": "los-indestructibles-2",
+    "titulo": "Los Indestructibles 2",
+    "imagen": "https://i.pinimg.com/1200x/da/32/43/da3243f7b564fe8196b448081e961cc9.jpg",
+    "url": "https://ia801007.us.archive.org/0/items/los-indestructible-2/LosIndestructible2.MP4",
     "categoria": "Accion",
-    "actor": "Michael B. Jordan, Sylvester Stallone, Dolph Lundgren",
-    "director": "Steven Caple Jr.",
-    "año": 2018,
-    "duracion": "2h 10m",
-    "clasificacion": "+13",
+    "actor": "Jason Statham, Bruce Willis, Sylvester Stallone",
+    "director": "Simon West",
+    "año": 2012,
+    "duracion": "1h 43m",
+    "clasificacion": "+16",
     "idioma": "Español Latino",
-    "descripcion": "Supervisado por el legendario Rocky Balboa, el espectacular púgil Adonis Johnson se prepara para un combate contra el hijo de Iván Drago, el boxeador soviético que mató a Apollo Creed en el ring."
+    "descripcion": "El líder mercenario Barney Ross, Lee Christmas y el resto del equipo se reúnen con el Sr. Church, quien los contrata para un aparente trabajo sencillo. Pero las cosas salen muy mal, lo queobliga a los mercenarios a buscar venganza por la muerte de un camarada. Con la suerte en su contra, Barney y su equipo enfrentan una ola de destrucción de las fuerzas opositoras, solo para encontrarse con una amenaza inesperada: seis libras de plutonio para armas."
   },
   {
     "id": "creed-iii",
@@ -266,6 +266,7 @@
     "descripcion": "La ilusión de Frank Dux es participar en el Kumite, un torneo secreto e ilegal de kickboxing. Pero para ello, antes debe derrotar al despiadado Ghong Li, el campeón."
   }
 ]
+
 
 
 
