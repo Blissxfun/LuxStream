@@ -28,7 +28,7 @@
     "descripcion": "Un joven lucha por dejar atrás su vida problemática y seguir su sueño de convertirse en un gran jugador de fútbol."
   },
   {
-    "id": "El-campeón-indiscutible",
+    "id": "el-campeón-indiscutible",
     "titulo": "El campeón indiscutible | Invicto",
     "imagen": "https://m.media-amazon.com/images/M/MV5BNjhiYjI5MzYtODcyYy00NmFkLTg2MjUtYjZkZjgxM2JmYTMxXkEyXkFqcGc@._V1_.jpg",
     "url": "https://ia800308.us.archive.org/33/items/162636-45f-175dd-15b-0-4cd-6-bded-832b-449982f-7-btjt-1143034-1fichier/162636--45f175dd-15b0-4cd6-bded-832b449982f7--btjt--1143034-1fichier.MP4",
@@ -56,18 +56,18 @@
     "descripcion": "Johnny es un temerario acróbata de motocicletas de día, pero de noche se convierte en Ghost Rider, el vengador fantasma, un cazarrecompensas de demonios fugados del infierno."
   },
   {
-    "id": "ghost-rider-espiritu-de-venganza",
-    "titulo": "Ghost Rider - Espíritu De Venganza",
-    "imagen": "https://i.pinimg.com/1200x/47/66/c8/4766c8df4a1c78c30c4352b9fc609161.jpg",
-    "url": "https://ia902905.us.archive.org/19/items/ghost-rider-2_202507/GhostRider2.MP4",
+    "id": "gran-Pelea-4",
+    "titulo": "Gran Pelea | Invicto 4",
+    "imagen": "https://i.pinimg.com/1200x/83/f7/76/83f776393af68860f0c19ed58b4d346d.jpg",
+    "url": "https://ia600107.us.archive.org/12/items/109377-be-56d-5b-5-e-7f-0-485b-af-05-fafc-005cd-631-jwku-1047613-1fichier/109377--be56d5b5-e7f0-485b-af05-fafc005cd631--jwku--1047613-1fichier.MP4",
     "categoria": "Accion",
-    "actor": "Nicolas Cage, Idris Elba, Johnny Whitworth",
-    "director": "Mark Neveldine, Brian Taylor",
-    "año": 2011,
-    "duracion": "1h 36m",
+    "actor": "Scott Adkins, Teodora Duhovnikova, Martyn Ford ",
+    "director": "Todor Chapkanov",
+    "año": 2016,
+    "duracion": "1h 30m",
     "clasificacion": "+13",
     "idioma": "Español Latino",
-    "descripcion": "Escondido en Europa Oriental, Johnny Blaze continúa luchando con la maldición del Fantasma del Jinete, el cazador de recompensas del diablo. Johnny conoce a un sacerdote llamado Moreau, quien le pide a Johnny encontrar a un niño llamado Danny y traerlo de regreso. Pero hay una trampa."
+    "descripcion": "Boyka mata sin pretenderlo a un rival en el ring, y esto le lleva a sufrir una crisis de identidad y preguntarse por qué pelea. Cuando descubre que la viuda del luchador al que mató tiene problemas, hará todo lo posible por defenderla."
   },
   {
     "id": "abraham-lincoln-cazador-de-vampiros",
@@ -266,6 +266,7 @@
     "descripcion": "La ilusión de Frank Dux es participar en el Kumite, un torneo secreto e ilegal de kickboxing. Pero para ello, antes debe derrotar al despiadado Ghong Li, el campeón."
   }
 ]
+
 
 
 
