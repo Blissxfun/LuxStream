@@ -126,32 +126,32 @@
     "descripcion": "Un hombre que puede ver demonios ayuda a una mujer policía escéptica a investigar la misteriosa muerte de su hermana gemela."
   },
   {
-    "id": "scary-movie",
-    "titulo": "Scary Movie",
-    "imagen": "https://i.pinimg.com/736x/55/85/40/5585403ab908b7083f7f92b561592cd8.jpg",
-    "url": "https://ia601502.us.archive.org/20/items/scary-movie_202508/ScaryMovie.MP4",
-    "categoria": "Comedia",
-    "actor": "Anna Faris, Marlon Wayans, Shawn Wayans",
-    "director": "Keenen Ivory Wayans",
-    "año": 2000,
-    "duracion": "1h 28m",
-    "clasificacion": "+13",
+    "id": "ghost-la-sombra-del-amor",
+    "titulo": "Ghost: la sombra del amor",
+    "imagen": "https://i.pinimg.com/1200x/71/bc/cb/71bccbc81f2bb9f7c88c941acf1fc4c0.jpg",
+    "url": "https://ia800406.us.archive.org/26/items/162603-3f-412b-8b-2dbd-464b-bcea-6987dea-3f-4d-3-ryur-1142671-1fichier/162603--3f412b8b-2dbd-464b-bcea-6987dea3f4d3--ryur--1142671-1fichier.MP4",
+    "categoria": "Romance",
+    "actor": "Patrick Swayze, Demi Moore, Tony Goldwyn",
+    "director": "Jerry Zucker",
+    "año": 1990,
+    "duracion": "2h 7m",
+    "clasificacion": "+16",
     "idioma": "Español Latino",
-    "descripcion": "Una parodia de los filmes de asesinatos donde un homicida vengativo acecha a un grupo de adolescentes."
+    "descripcion": "Un joven asesinado de Manhattan entra en contacto con su querida amada gracias a la ayuda de una misteriosa mujer que puede hablar con los muertos."
   },
   {
-    "id": "scary-movie-2",
-    "titulo": "Scary Movie 2",
-    "imagen": "https://i.pinimg.com/1200x/04/67/3f/04673fee4257bb32818bd1d940c9bb9d.jpg",
-    "url": "https://ia601000.us.archive.org/25/items/scary-movie-2_202508/ScaryMovie2.MP4",
+    "id": "una-pareja-explosiva",
+    "titulo": "Una Pareja Explosiva",
+    "imagen": "https://i.pinimg.com/736x/fe/99/6e/fe996e73f1b658be83a7c2695f1d124a.jpg",
+    "url": "https://ia801006.us.archive.org/28/items/137723-49b-07f-2d-452b-41ef-a-7d-1-642eb-2b-384f-1-khzn-1092317-1fichier/137723--49b07f2d-452b-41ef-a7d1-642eb2b384f1--khzn--1092317-1fichier.MP4",
     "categoria": "Comedia",
-    "actor": "Anna Faris, Marlon Wayans, Shawn Wayans",
-    "director": "Keenen Ivory Wayans",
-    "año": 2001,
-    "duracion": "1h 23m",
+    "actor": "Jackie Chan, Chris Tucker, Tom Wilkinson",
+    "director": "Brett Ratner",
+    "año": 1998,
+    "duracion": "1h 38m",
     "clasificacion": "+13",
     "idioma": "Español Latino",
-    "descripcion": "Un profesor engaña a cuatro adolescentes y los hace visitar una mansión hechizada para estudiar el sueño."
+    "descripcion": "Cuando Chan, el alumno favorito de Hong Kong quien es detective de la policía se entera que el inspector Lee es secuestrado en Estados Unidos, viaja a Estados Unidos para encontrarla."
   },
   {
     "id": "scary-movie-3",
@@ -266,6 +266,7 @@
     "descripcion": "La ilusión de Frank Dux es participar en el Kumite, un torneo secreto e ilegal de kickboxing. Pero para ello, antes debe derrotar al despiadado Ghong Li, el campeón."
   }
 ]
+
 
 
 
