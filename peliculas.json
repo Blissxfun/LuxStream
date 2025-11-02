@@ -154,18 +154,18 @@
     "descripcion": "Cuando Chan, el alumno favorito de Hong Kong quien es detective de la policía se entera que el inspector Lee es secuestrado en Estados Unidos, viaja a Estados Unidos para encontrarla."
   },
   {
-    "id": "scary-movie-3",
-    "titulo": "Scary Movie 3",
-    "imagen": "https://i.pinimg.com/1200x/38/95/ab/3895ab36faf6ee307c17239a24ee4475.jpg",
-    "url": "https://ia601006.us.archive.org/27/items/scary-movie-3_202508/ScaryMovie3.MP4",
-    "categoria": "Comedia",
-    "actor": "Anna Faris, Charlie Sheen, Regina Hall",
-    "director": "David Zucker",
-    "año": 2003,
-    "duracion": "1h 24m",
-    "clasificacion": "+13",
+    "id": "rapido-y-furioso-a-todo-gas",
+    "titulo": "Rapido y Furioso | A Todo Gas",
+    "imagen": "https://i.pinimg.com/736x/d6/d7/56/d6d756ed929016b0990a6c8a54caa72e.jpg",
+    "url": "https://ia601004.us.archive.org/0/items/239214-a-45b-62a-6-12bf-4fc-1-98cf-965dac-4b-2808-wyxr-2031052-1fichier/239214--a45b62a6-12bf-4fc1-98cf-965dac4b2808--wyxr--2031052-1fichier.MP4",
+    "categoria": "Accion",
+    "actor": "Paul Walker, Vin Diesel, Michelle Rodriguez",
+    "director": "Rob Cohen",
+    "año": 2001,
+    "duracion": "1h 41m",
+    "clasificacion": "+18",
     "idioma": "Español Latino",
-    "descripcion": "En su afán de encontrar una noticia que impulse su carrera, la periodista Cindy Campbell descubre que la Tierra está amenazada por una serie de hechos terroríficos. La joven debe luchar para evitar que el mal se apodere del mundo otra vez."
+    "descripcion": "Brian, un agente de la LAPD, se infiltra en el grupo de carreras de Dominic Torreto, sospechoso de cometer robos. Ya dentro, se enamora de este nuevo mundo y de la hermana de Torretto. Ahora deberá decidir a quién darle su lealtad."
   },
   {
     "id": "scary-movie 4",
@@ -266,6 +266,7 @@
     "descripcion": "La ilusión de Frank Dux es participar en el Kumite, un torneo secreto e ilegal de kickboxing. Pero para ello, antes debe derrotar al despiadado Ghong Li, el campeón."
   }
 ]
+
 
 
 
